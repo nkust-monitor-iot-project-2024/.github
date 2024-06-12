@@ -14,7 +14,8 @@ Code here are somewhat incompleted, and I prefer to leave it as it is.
 
 This drafts act like an PoC of our sensors. It is not well-written, but it mostly works.
 
-<!-- wip -->
+- [Sensor examples](https://github.com/nkust-monitor-iot-project-2024/sensor-examples): PoC of the sensors.
+- [Notification examples](https://github.com/nkust-monitor-iot-project-2024/notification-examples): PoC of LINE Notify and Discord (Webhook)
 
 ## Unimplemented
 
